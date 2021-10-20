@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    color: #333;
+    font-size: 1.6rem;
+    font-family: Meiryo;
+    background: #eeeeee;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.button{
+    border-radius : 5%;
+    background    : #c3c3c7;
+}
+
+.button:hover {
+    box-shadow    : none;
+    color         : #1b1a1a;
+    background    : #a8a7a7;
+}
