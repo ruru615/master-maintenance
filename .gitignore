@@ -1,0 +1,6 @@
+# PhpStorm
+.idea
+vendor-bin
+.php-cs-fixer.cache
+# Docker Compose
+.env
